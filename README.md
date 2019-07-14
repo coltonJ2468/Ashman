@@ -1,10 +1,10 @@
 # Ashman
 A pacman nock off for android
 
-![Alt Text] (images/img1?raw=true "Title")
+![Maze 1] (images/img1)
 
-![Alt Text] (images/img2?raw=true "Title")
+![Maze 2] (images/img2)
 
-![Alt Text] (images/img3?raw=true "Title")
+![Settings] (images/img3)
 
 Lost original project but have the java files and the apk
